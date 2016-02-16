@@ -1,5 +1,11 @@
+.. figure:: https://directory.eoportal.org/image/image_gallery?img_id=175580&t=1338285722640
+   :align: center
+   :height: 300px
+
+   **Artist's view of the ERS-2 spacecraft in orbit (image credit: ESA)**
+
 ============
-ESCAT_reader
+ESCAT reader
 ============
 
 This package provides interfaces to read ERS ESCAT ASPS20 nominal and high
