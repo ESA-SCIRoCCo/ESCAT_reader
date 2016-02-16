@@ -2,8 +2,9 @@
 ESCAT_reader
 ============
 
+This package provides interfaces to read ERS ESCAT ASPS20 nominal and high
+resolution data as provided by ESA.
 
-Add a short description here!
 
 
 Description
